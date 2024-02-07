@@ -1,0 +1,22 @@
+[
+    { "Jugador": 1, "nombre": "Messi", "equipo": "Inter Miami" },
+    { "Jugador": 2, "nombre": "Cristiano Ronaldo", "equipo": "Al Nassr" },
+    { "Jugador": 3, "nombre": "Kylian Mbappe", "equipo": "Paris Saint-Germain" },
+    { "Jugador": 4, "nombre": "Neymar Jr.", "equipo": "Al Hilal" },
+    { "Jugador": 5, "nombre": "Robert Lewandowski", "equipo": "Barcelona" },
+    { "Jugador": 6, "nombre": "Erling Haaland", "equipo": "Manchester City" },
+    { "Jugador": 7, "nombre": "Mohamed Salah", "equipo": "Liverpool" },
+    { "Jugador": 8, "nombre": "Harry Kane", "equipo": "Bayern Munich" },
+    { "Jugador": 9, "nombre": "Kevin De Bruyne", "equipo": "Manchester City" },
+    { "Jugador": 10, "nombre": "Luka Modric", "equipo": "Real Madrid" },
+    { "Jugador": 11, "nombre": "Antoine Griezmann", "equipo": "Atletico Madrid" },
+    { "Jugador": 12, "nombre": "Luis Suarez", "equipo": "Inter Miami" },
+    { "Jugador": 13, "nombre": "Vinicious Jr", "equipo": "Real Madrid" },
+    { "Jugador": 14, "nombre": "Casemiro", "equipo": "Manchester United" },
+    { "Jugador": 15, "nombre": "Raheem Sterling", "equipo": "Chelsea" },
+    { "Jugador": 16, "nombre": "Pedri", "equipo": "Barcelona" },
+    { "Jugador": 17, "nombre": "Frenkie de Jong", "equipo": "Barcelona" },
+    { "Jugador": 18, "nombre": "Toni Kroos", "equipo": "Real Madrid" },
+    { "Jugador": 19, "nombre": "Leroy Sané", "equipo": "Bayern Munich" },
+    { "Jugador": 20, "nombre": "Heung-Min Son", "equipo": "Tottenham Hotspur" }
+  ]
